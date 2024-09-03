@@ -1,5 +1,5 @@
 # Project Management Application
-MOROMENACHO,LLUMIQUINGA,CASTILLO
+MOROMENACHO,LLUMIQUINGA,Ortiz
 Este proyecto es una aplicación de gestión de proyectos con un frontend desarrollado en React y un backend en Node.js con Express. A continuación se detallan los pasos para desplegar ambos entornos.
 
 ## Requisitos previos
